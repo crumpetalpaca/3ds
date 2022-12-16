@@ -1,14 +1,14 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://www.bay12games.com/dwarves/">Dwarf Fortress</a>
+	Catppuccin for <a href="https://www.bay12games.com/dwarves/">3ds</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/3ds/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/dwarf-fortress?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/3ds/issues"><img src="https://img.shields.io/github/issues/catppuccin/dwarf-fortress?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/3ds/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/dwarf-fortress?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/3ds/stargazers"><img src="https://img.shields.io/github/stars/crumpetalpaca/3ds?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/3ds/issues"><img src="https://img.shields.io/github/issues/crumpetalpaca/3ds?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/3ds/contributors"><img src="https://img.shields.io/github/contributors/crumpetalpaca/3ds?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/previews/latte.webp"/>
+<img src="assets/previews/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/previews/frappe.webp"/>
+<img src="assets/previews/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/previews/macchiato.webp"/>
+<img src="assets/previews/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/previews/mocha.webp"/>
+<img src="assets/previews/mocha.png"/>
 </details>
 
 ## Usage
@@ -43,7 +43,7 @@
 
 ## 💝 Thanks to
 
-- [backwardspy](https://github.com/backwardspy)
+- [Beelzy for the Kame-Editor]()
 
 &nbsp;
 
