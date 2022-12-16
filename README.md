@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://www.bay12games.com/dwarves/">3ds</a>
+	Catppuccin for 3ds
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -36,14 +36,12 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Copy the desired flavour over your Dwarf Fortress' `colors.txt`
-	- For example: `cp mocha/colors.txt ~/.dwarffortress/data/init/colors.txt`
-3. Launch Dwarf Fortress
+## QR Codes
+
 
 ## 💝 Thanks to
 
-- [Beelzy for the Kame-Editor]()
+- [Beelzy for the Kame-editor]("https://beelzy.gitlab.io/kame-editor")
 
 &nbsp;
 
