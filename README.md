@@ -26,6 +26,10 @@
 
 ## QR Codes
 
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/previews/mocha.png"/>
+</details>
 
 ## 💝 Thanks to
 
