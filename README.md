@@ -28,7 +28,7 @@
 
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/previews/mocha.png"/>
+<img src="assets/previews/QRMocha.png"/>
 </details>
 
 ## 💝 Thanks to
